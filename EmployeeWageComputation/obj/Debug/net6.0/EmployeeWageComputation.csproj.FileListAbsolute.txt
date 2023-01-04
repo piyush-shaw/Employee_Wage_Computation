@@ -1,0 +1,15 @@
+/Users/piyushshaw/Projects/EmployeeWageComputation/EmployeeWageComputation/bin/Debug/net6.0/EmployeeWageComputation
+/Users/piyushshaw/Projects/EmployeeWageComputation/EmployeeWageComputation/bin/Debug/net6.0/EmployeeWageComputation.deps.json
+/Users/piyushshaw/Projects/EmployeeWageComputation/EmployeeWageComputation/bin/Debug/net6.0/EmployeeWageComputation.runtimeconfig.json
+/Users/piyushshaw/Projects/EmployeeWageComputation/EmployeeWageComputation/bin/Debug/net6.0/EmployeeWageComputation.dll
+/Users/piyushshaw/Projects/EmployeeWageComputation/EmployeeWageComputation/bin/Debug/net6.0/EmployeeWageComputation.pdb
+/Users/piyushshaw/Projects/EmployeeWageComputation/EmployeeWageComputation/obj/Debug/net6.0/EmployeeWageComputation.csproj.AssemblyReference.cache
+/Users/piyushshaw/Projects/EmployeeWageComputation/EmployeeWageComputation/obj/Debug/net6.0/EmployeeWageComputation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piyushshaw/Projects/EmployeeWageComputation/EmployeeWageComputation/obj/Debug/net6.0/EmployeeWageComputation.AssemblyInfoInputs.cache
+/Users/piyushshaw/Projects/EmployeeWageComputation/EmployeeWageComputation/obj/Debug/net6.0/EmployeeWageComputation.AssemblyInfo.cs
+/Users/piyushshaw/Projects/EmployeeWageComputation/EmployeeWageComputation/obj/Debug/net6.0/EmployeeWageComputation.csproj.CoreCompileInputs.cache
+/Users/piyushshaw/Projects/EmployeeWageComputation/EmployeeWageComputation/obj/Debug/net6.0/EmployeeWageComputation.dll
+/Users/piyushshaw/Projects/EmployeeWageComputation/EmployeeWageComputation/obj/Debug/net6.0/refint/EmployeeWageComputation.dll
+/Users/piyushshaw/Projects/EmployeeWageComputation/EmployeeWageComputation/obj/Debug/net6.0/EmployeeWageComputation.pdb
+/Users/piyushshaw/Projects/EmployeeWageComputation/EmployeeWageComputation/obj/Debug/net6.0/EmployeeWageComputation.genruntimeconfig.cache
+/Users/piyushshaw/Projects/EmployeeWageComputation/EmployeeWageComputation/obj/Debug/net6.0/ref/EmployeeWageComputation.dll
