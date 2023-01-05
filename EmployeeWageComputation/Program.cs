@@ -6,7 +6,6 @@
     static void Main(string[] args)
     {
         Console.WriteLine("Welcome to Employee Wage Computation Program");
-        
         int empHrs = 0;
         int empWage = 0;
         Random random = new Random();
