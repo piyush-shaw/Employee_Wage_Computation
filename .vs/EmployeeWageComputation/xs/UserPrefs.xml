@@ -1,8 +1,10 @@
 ﻿<Properties StartupConfiguration="{725E3AB0-0043-4D54-BD44-9AAE9530317E}|Default">
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EmployeeWageComputation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="EmployeeWageComputation/Program.cs">
     <Files>
-      <File FileName="EmployeeWageComputation/Program.cs" Line="37" Column="2" />
+      <File FileName="EmployeeWageComputation/Program.cs" Line="36" Column="5" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,10 +16,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.EmployeeWageComputation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

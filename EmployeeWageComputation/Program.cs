@@ -5,7 +5,7 @@
     public const int EMP_RATE_PER_HR = 20;
     public const int NUM_OF_WORKING_DAYS = 20;
     public const int MAX_HRS_IN_MONTH = 100;
-    public static void computeEmpWage()
+    public static void computeEmpWage(string company, int empRatePerHour, int numOfWorkingDays, int maxHoursPerMonth)
     {
         int empHrs = 0;
         int totalWorkingDays = 0;
@@ -31,11 +31,13 @@
             Console.WriteLine("Day# " + totalWorkingDays + " EmpHrs " + empHrs);
         }
         int totalEmpWage = totalEmpHrs * EMP_RATE_PER_HR;
-        Console.WriteLine("Total emp wage :" + totalEmpWage);
+        Console.WriteLine("Total emp wage for company :"+company +" is " + totalEmpWage);
+
     }
     static void Main(string[] args)
     {
         Console.WriteLine("Welcome to Employee Wage Computation Program");
-        computeEmpWage();
+        computeEmpWage("Dmart", 30, 24, 80);
+        computeEmpWage("McDonald", 40, 22, 100);
     }
 }
